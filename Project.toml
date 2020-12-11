@@ -1,0 +1,13 @@
+name = "GViz"
+uuid = "a58aefc9-eb2b-4c0e-adae-65fbfd9781c5"
+authors = ["Florian Zink <zink.florian@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.3"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
