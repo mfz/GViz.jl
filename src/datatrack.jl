@@ -12,9 +12,6 @@ Create a data track consisting of one or multiple layers.
 
 # Layer parameters
 
-Layers use a Grammar of Graphics like approach,
-i.e. the user can specify aesthetics, geometry, and scale
-using the following parameters 
 
   - `:x` 
   - `:y`
